@@ -331,6 +331,8 @@ def debloat_windows():
         "Microsoft.YourPhone",
         "Microsoft.ZuneMusic",
         "Microsoft.ZuneVideo",
+
+        "Microsoft.MicrosoftTeams",
         
         "Microsoft.Clipchamp",
         "Microsoft.LinkedInforWindows",
