@@ -10,7 +10,7 @@ import shutil
 
 exit = False
 
-print("Ordinary Space by Jannik Giera")
+print("Ordinary Space by P3NG0DZ")
 print("It is recommended to run this program as an administrator!")
 
 def organize_files():
